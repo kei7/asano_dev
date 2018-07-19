@@ -1,0 +1,3 @@
+[submodule "Moving-Least-Squares"]
+	path = Moving-Least-Squares
+	url = https://github.com/Jarvis73/Moving-Least-Squares.git
